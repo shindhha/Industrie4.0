@@ -1,0 +1,32 @@
+[gd_scene load_steps=7 format=3 uid="uid://bimqwtpqswnd2"]
+
+[ext_resource type="PackedScene" uid="uid://vb124qmmqj7n" path="res://tutu.tscn" id="1_a0tk4"]
+[ext_resource type="PackedScene" uid="uid://cevtr3y23ub6o" path="res://led.tscn" id="2_r3fl7"]
+[ext_resource type="PackedScene" uid="uid://8wy32dwol4ld" path="res://gauge.tscn" id="3_jka67"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_a202f"]
+
+[sub_resource type="Sky" id="Sky_noarx"]
+sky_material = SubResource("ProceduralSkyMaterial_a202f")
+
+[sub_resource type="Environment" id="Environment_a0tk4"]
+background_mode = 2
+background_energy_multiplier = 4.0
+sky = SubResource("Sky_noarx")
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.8224023, 0.56890637, 0, -0.56890637, 0.8224023, 2.9835622, 4.4968424, 5.087601)
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_a0tk4")
+
+[node name="bouton" parent="." instance=ExtResource("1_a0tk4")]
+transform = Transform3D(-0.016195953, 0, 0.99986887, 0, 1, 0, -0.99986887, 0, -0.016195953, 2.8386278, 0, -1.063281)
+
+[node name="led" parent="." instance=ExtResource("2_r3fl7")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.882, -0.1002903, -11.047106)
+
+[node name="gauge" parent="." instance=ExtResource("3_jka67")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8.7556305, 1.0513062, -10.421076)
