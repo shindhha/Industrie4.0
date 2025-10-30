@@ -1,25 +1,38 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1761810470
-Button.blend::PackedScene::5960467435048573374::1761140923::1761140925::1::::<><><>0<>0<>daa14e0f66268afeef0a60e35476b1e4<>res://.godot/imported/Button.blend-b749edc7cba582ab0ee6e471cca9719f.scn::
-control.tscn::PackedScene::4838346825593053159::1761293312::0::1::::<><><>0<>0<><>::uid://ktm7k0co2o7l::::res://addons/mqtt/mqtt.tscn
-Gauge.blend::PackedScene::8101737838450418038::1761140923::1761140926::1::::<><><>0<>0<>948a3ad1a84e9a58cb39bf96594d8a1f<>res://.godot/imported/Gauge.blend-5349845864f12a0bd7c324094fdcca86.scn::
-gauge.gd::GDScript::5334287304106489737::1761306179::0::1::::<>Node3D<><>0<>0<><>::
-gauge.tscn::PackedScene::2363156784483737381::1761146135::0::1::::<><><>0<>0<><>::uid://ch876ya6qf1er::::res://gauge.gd<>uid://dnoso56u24svm::::res://Gauge.blend
-icon.svg::CompressedTexture2D::4949943718824922576::1761139436::1761139484::1::::<><><>0<>0<>1fb6702bddf914f6509913a13d26d73a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-LED.blend::PackedScene::4156727241055736237::1761140923::1761140926::1::::<><><>0<>0<>120784d7f2052989d98f171a65e79b9e<>res://.godot/imported/LED.blend-e5cc7ef83537c05daf1a0f8e12c5329c.scn::
-led.gd::GDScript::4755227574036429979::1761145719::0::1::::<>Node3D<><>0<>0<><>::
-led.tscn::PackedScene::5098134165126605168::1761145509::0::1::::<><><>0<>0<><>::uid://b0hsxqbx5hj7r::::res://LED.blend<>uid://b80p5yld34fux::::res://led.gd
-machine.gd::GDScript::739834219037718031::1761230788::0::1::::<>Node3D<><>0<>0<><>::
-machine.tscn::PackedScene::510689505500449341::1761228749::0::1::::<><><>0<>0<><>::uid://bdg8c51i57cu8::::res://modelTest4.glb<>uid://ksm7xqwjqeff::::res://machine.gd
-modelTest4.glb::PackedScene::2611382329750913329::1761226460::1761226463::1::::<><><>0<>0<>fa4caa94dd95192b4e7cd9bb86ce908f<>res://.godot/imported/modelTest4.glb-382a0ce5fae9715e9da66f0bc873c0aa.scn::
-node_3d.gd::GDScript::5573085185995383495::1761306180::0::1::::<>Node<><>0<>0<><>::
-node_3d.tscn::PackedScene::2973715747063868229::1761309636::0::1::::<><><>0<>0<><>::uid://vb124qmmqj7n::::res://tutu.tscn<>uid://clnv5s8p60oqx::::res://node_3d.gd<>uid://cevtr3y23ub6o::::res://led.tscn<>uid://8wy32dwol4ld::::res://gauge.tscn<>uid://ca6y4ok1s1plf::::res://control.tscn<>uid://s2lnph0vekjt::::res://testbras.blend
-test.blend::PackedScene::941770062797882386::1761140813::1761140817::1::::<><><>0<>0<>5a8acbdabb8df03fe84f40a5358ea279<>res://.godot/imported/test.blend-37de40cf965713d894682065ddc3bcf0.scn::
-testbras.blend::PackedScene::1319829286913392445::1761308473::1761308997::1::::<><><>0<>0<>65227bf5dcac6593c611299e22b6fa81<>res://.godot/imported/testbras.blend-ae325e64d3e8c9f6c7b2db6092d6be14.scn::
-testbras.gd::GDScript::4211148220367346591::1761313002::0::1::::<>Node3D<><>0<>0<><>::
-tutu.gd::GDScript::1497176787789126084::1761306135::0::1::::<>Node3D<><>0<>0<><>::
-tutu.tscn::PackedScene::1477658500856026417::1761306135::0::1::::<><><>0<>0<><>::uid://vlijvdipfst5::::res://tutu.gd<>uid://cq6ka7fo7gmkk::::res://Button.blend
-::res://addons/::1761290386
-::res://addons/mqtt/::1761290386
-mqtt.gd::GDScript::7830520191155778617::1761232602::0::1::::<>Node<><>0<>0<><>::
-mqtt.tscn::PackedScene::741897926989883707::1761232602::0::1::::<><><>0<>0<><>::res://addons/mqtt/mqtt.gd
+::res://::1761813585
+Button.blend::PackedScene::5960467435048573374::1761813013::1761813667::1::::<><><>0<>0<>daa14e0f66268afeef0a60e35476b1e4<>res://.godot/imported/Button.blend-b749edc7cba582ab0ee6e471cca9719f.scn::
+control.tscn::PackedScene::4838346825593053159::1761813013::0::1::::<><><>0<>0<><>::uid://ktm7k0co2o7l::::res://addons/mqtt/mqtt.tscn
+Gauge.blend::PackedScene::8101737838450418038::1761813013::1761813667::1::::<><><>0<>0<>948a3ad1a84e9a58cb39bf96594d8a1f<>res://.godot/imported/Gauge.blend-5349845864f12a0bd7c324094fdcca86.scn::
+gauge.gd::GDScript::5334287304106489737::1761813013::0::1::::<>Node3D<><>0<>0<><>::
+gauge.tscn::PackedScene::2363156784483737381::1761813013::0::1::::<><><>0<>0<><>::uid://ch876ya6qf1er::::res://gauge.gd<>uid://dnoso56u24svm::::res://Gauge.blend
+icon.svg::CompressedTexture2D::4949943718824922576::1761813013::1761813665::1::::<><><>0<>0<>1fb6702bddf914f6509913a13d26d73a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+LED.blend::PackedScene::4156727241055736237::1761813013::1761813667::1::::<><><>0<>0<>120784d7f2052989d98f171a65e79b9e<>res://.godot/imported/LED.blend-e5cc7ef83537c05daf1a0f8e12c5329c.scn::
+led.gd::GDScript::4755227574036429979::1761813013::0::1::::<>Node3D<><>0<>0<><>::
+led.tscn::PackedScene::5098134165126605168::1761813013::0::1::::<><><>0<>0<><>::uid://b0hsxqbx5hj7r::::res://LED.blend<>uid://b80p5yld34fux::::res://led.gd
+machine.gd::GDScript::739834219037718031::1761813013::0::1::::<>Node3D<><>0<>0<><>::
+machine.tscn::PackedScene::510689505500449341::1761813013::0::1::::<><><>0<>0<><>::uid://bdg8c51i57cu8::::res://modelTest4.glb<>uid://ksm7xqwjqeff::::res://machine.gd
+modelTest4.glb::PackedScene::2611382329750913329::1761813013::1761813667::1::::<><><>0<>0<>fa4caa94dd95192b4e7cd9bb86ce908f<>res://.godot/imported/modelTest4.glb-382a0ce5fae9715e9da66f0bc873c0aa.scn::
+node_3d.gd::GDScript::5573085185995383495::1761813013::0::1::::<>Node<><>0<>0<><>::
+node_3d.tscn::PackedScene::2973715747063868229::1761813583::0::1::::<><><>0<>0<><>::uid://vb124qmmqj7n::::res://tutu.tscn<>uid://cevtr3y23ub6o::::res://led.tscn<>uid://8wy32dwol4ld::::res://gauge.tscn
+test.blend::PackedScene::941770062797882386::1761813013::1761813668::1::::<><><>0<>0<>5a8acbdabb8df03fe84f40a5358ea279<>res://.godot/imported/test.blend-37de40cf965713d894682065ddc3bcf0.scn::
+testbras.blend::PackedScene::1319829286913392445::1761813013::1761813668::1::::<><><>0<>0<>65227bf5dcac6593c611299e22b6fa81<>res://.godot/imported/testbras.blend-ae325e64d3e8c9f6c7b2db6092d6be14.scn::
+testbras.gd::GDScript::4211148220367346591::1761813013::0::1::::<>Node3D<><>0<>0<><>::
+tutu.gd::GDScript::1497176787789126084::1761813585::0::1::::<>Node3D<><>0<>0<><>::
+tutu.tscn::PackedScene::1477658500856026417::1761813013::0::1::::<><><>0<>0<><>::uid://vlijvdipfst5::::res://tutu.gd<>uid://cq6ka7fo7gmkk::::res://Button.blend
+::res://addons/::1761813013
+::res://addons/mqtt/::1761813013
+mqtt.gd::GDScript::7830520191155778617::1761813013::0::1::::<>Node<><>0<>0<><>::
+mqtt.tscn::PackedScene::741897926989883707::1761813013::0::1::::<><><>0<>0<><>::res://addons/mqtt/mqtt.gd
+::res://TP1 DT/::1761813231
+prompt.txt::TextFile::-1::1761813231::0::1::::<><><>0<>0<><>::
+::res://TP1 DT/__pycache__/::1761813305
+::res://TP1 DT/adapters/::1761813231
+::res://TP1 DT/config/::1761813231
+::res://TP1 DT/config/nodes/::1761813231
+cloud-001.json::JSON::-1::1761813231::0::1::::<><><>0<>0<><>::
+edge-building-a.json::JSON::-1::1761813231::0::1::::<><><>0<>0<><>::
+edge-room-a101.json::JSON::-1::1761813231::0::1::::<><><>0<>0<><>::
+::res://TP1 DT/dashboard/::1761813231
+::res://TP1 DT/data/::1761813583
+devices.json::JSON::-1::1761813583::0::1::::<><><>0<>0<><>::
+::res://TP1 DT/processors/::1761813231
